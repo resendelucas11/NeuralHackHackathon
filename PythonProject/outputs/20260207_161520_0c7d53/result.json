@@ -1,0 +1,1 @@
+{"detections":[],"image":{"height":1080,"source_name":"sec2_frame_000311.png","width":1920},"metrics":{"counts_by_class":{},"density":0.0,"total_objects":0},"model":{"conf":0.25,"iou":0.7,"weights":"best_roundabout.pt"},"scene_id":"20260207_161520_0c7d53","timestamp_utc":"2026-02-07T16:15:20.691048+00:00"}

@@ -1,0 +1,8 @@
+path: /content/yolo_roundabout
+train: images/train
+val: images/val
+names:
+- bus
+- car
+- cycle
+- truck

@@ -1,0 +1,1 @@
+{"detections":[],"image":{"height":720,"source_name":"sec9_frame_000001.png","width":1280},"metrics":{"counts_by_class":{},"density":0.0,"roi_occupancy":0.0,"total_objects":0,"traffic_state":"FLUIDO"},"model":{"conf":0.25,"iou":0.7,"weights":"best_roundabout.pt"},"scene_id":"20260207_173021_8c7839","timestamp_utc":"2026-02-07T17:30:22.045209+00:00"}

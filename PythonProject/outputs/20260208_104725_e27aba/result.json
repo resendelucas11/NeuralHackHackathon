@@ -1,0 +1,1 @@
+{"detections":[],"image":{"height":720,"source_name":"seca_frame_000450.png","width":1280},"metrics":{"counts_by_class":{},"density":0.0,"roi_occupancy":0.0,"total_objects":0,"traffic_state":"FLUIDO"},"model":{"conf":0.25,"iou":0.7,"weights":"best_roundabout.pt"},"roi_xyxy":[256,144,1024,576],"scene_id":"20260208_104725_e27aba","timestamp_utc":"2026-02-08T10:47:26.367708+00:00"}
